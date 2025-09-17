@@ -100,6 +100,8 @@ ADDRESS_BOOK = [
     {'AddressBookNumber': '1087603', 'Name': 'WILLIAMS, NICHOLAS ALAN', 'Craft Description': 'Crane Elec', 'Crew': 'Crane Elec'},
     {'AddressBookNumber': '1133585', 'Name': 'GREEN JR., BRYAN DOUGLAS', 'Craft Description': 'Crane Elec', 'Crew': 'Crane Elec'},
     {'AddressBookNumber': '1163881', 'Name': 'HALL, JASON WILBUR', 'Craft Description': 'Crane Mech', 'Crew': 'Crane Mech'},
+    {'AddressBookNumber': '1068171', 'Name': 'DEAN, DUSTIN TYLER WALLACE', 'Craft Description': 'Crane Mech', 'Crew': 'Crane Mech'},
+    {'AddressBookNumber': '1115011', 'Name': 'KOETTER, GREGORY ALLEN', 'Craft Description': 'Crane Elec', 'Crew': 'Crane Elec'},
 ]
 # Mapping from work order type codes to descriptive names.
 TYPE_MAP: Dict[str, str] = {
