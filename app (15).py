@@ -23,14 +23,16 @@ CRAFT_ORDER = [
     'Finishing Elec Days',
     'Z Mill Mech Days',
     'Z Mill Elec Days',
-    'CM Elec Aux Days',
+    'CM Elec Aux Days'
+    'Crane Mech',
+    'Crane Elec'
 ]
 
 # Address book (from AP sheet, revised): includes AddressBookNumber, Name, Craft Description (Crew), Crew, and optional Area.
 ADDRESS_BOOK = [
     {'AddressBookNumber': '64590', 'Name': 'DAVIS, JON C.', 'Craft Description': 'AP Elec Days', 'Crew': 'AP Elec Days'},
     {'AddressBookNumber': '1096681', 'Name': 'GOODFRIEND, AVERY PAUL', 'Craft Description': 'AP Elec Days', 'Crew': 'AP Elec Days'},
-    {'AddressBookNumber': '1151548', 'Name': 'GRUBBS, CHANCE THOMAS', 'Craft Description': 'AP Elec Days', 'Crew': 'AP Elec Days'},
+    {'AddressBookNumber': '1087486', 'Name': 'GRUBBS, CHANCE THOMAS', 'Craft Description': 'AP Elec Days', 'Crew': 'AP Elec Days'},
     {'AddressBookNumber': '183804', 'Name': 'LAWSON, JASON T.', 'Craft Description': 'AP Elec Days', 'Crew': 'AP Elec Days'},
     {'AddressBookNumber': '1100855', 'Name': 'VEST, JASON NATHANAEL', 'Craft Description': 'AP Elec Days', 'Crew': 'AP Elec Days'},
     {'AddressBookNumber': '1095515', 'Name': 'SPILLMAN, TANNER CHARLES', 'Craft Description': 'AP Elec Days', 'Crew': 'AP Elec Days'},
@@ -91,7 +93,13 @@ ADDRESS_BOOK = [
     {'AddressBookNumber': '59011', 'Name': 'MEFFORD, ROGER C.', 'Craft Description': 'Z Mill Mech Days', 'Crew': 'Z Mill Mech Days'},
     {'AddressBookNumber': '118105', 'Name': 'VARBLE, ROBERT B.', 'Craft Description': 'Z Mill Mech Days', 'Crew': 'Z Mill Mech Days'},
     {'AddressBookNumber': '1126406', 'Name': 'WYCOFF, TRISTAN DEVON', 'Craft Description': 'Z Mill Mech Days', 'Crew': 'Z Mill Mech Days'},
-    
+    {'AddressBookNumber': '1058853', 'Name': 'ESKEW, JARED MICHAEL', 'Craft Description': 'Crane Mech', 'Crew': 'Crane Mech'},
+    {'AddressBookNumber': '1131176', 'Name': 'GOODRICH, TYLER JOSEPH SCOTT', 'Craft Description': 'Crane Mech', 'Crew': 'Crane Mech'},
+    {'AddressBookNumber': '1166387', 'Name': 'JUSTICE, DAVEN MATTHEW', 'Craft Description': 'Crane Mech', 'Crew': 'Crane Mech'},
+    {'AddressBookNumber': '1095507', 'Name': 'POWELL, JARED SHANE', 'Craft Description': 'Crane Elec', 'Crew': 'Crane Elec'},
+    {'AddressBookNumber': '1087603', 'Name': 'WILLIAMS, NICHOLAS ALAN', 'Craft Description': 'Crane Elec', 'Crew': 'Crane Elec'},
+    {'AddressBookNumber': '1133585', 'Name': 'GREEN JR., BRYAN DOUGLAS', 'Craft Description': 'Crane Elec', 'Crew': 'Crane Elec'},
+    {'AddressBookNumber': '1163881', 'Name': 'HALL, JASON WILBUR', 'Craft Description': 'Crane Mech', 'Crew': 'Crane Mech'},
 ]
 # Mapping from work order type codes to descriptive names.
 TYPE_MAP: Dict[str, str] = {
