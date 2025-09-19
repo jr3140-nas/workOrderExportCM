@@ -55,7 +55,7 @@ ADDRESS_BOOK = [
     {'AddressBookNumber': '1177650', 'Name': 'HENRY JR, MICHAEL SCOTT', 'Craft Description': 'CM Turns', 'Crew': 'CM Turns'},
     {'AddressBookNumber': '191951', 'Name': 'HORNBACK, DELBERT R.', 'Craft Description': 'CM Turns', 'Crew': 'CM Turns'},
     {'AddressBookNumber': '1155557', 'Name': 'JONES, ROBERT ETHAN', 'Craft Description': 'CM Turns', 'Crew': 'CM Turns'},
-    {'AddressBookNumber': '118480', 'Name': 'LEVELL, BRIAN A.', 'Craft Description': 'CM Turns', 'Crew': 'CM Turns'},
+    {'AddressBookNumber': '118480', 'Name': 'LEVELL, BRIAN A.', 'Craft Description': 'AP Mech Days', 'Crew': 'AP Mech Days'},
     {'AddressBookNumber': '1117497', 'Name': 'LEWIS, TREVOR ALEXANDER', 'Craft Description': 'CM Turns', 'Crew': 'CM Turns'},
     {'AddressBookNumber': '79409', 'Name': 'LOGAN, JAMES L.', 'Craft Description': 'CM Turns', 'Crew': 'CM Turns'},
     {'AddressBookNumber': '1105015', 'Name': 'NIX, ANDREW DAVIS', 'Craft Description': 'CM Turns', 'Crew': 'CM Turns'},
